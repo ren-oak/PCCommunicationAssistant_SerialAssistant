@@ -1,0 +1,48 @@
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\bin\Release\myserialassistant.exe.config
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\bin\Release\myserialassistant.exe
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\bin\Release\myserialassistant.pdb
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.Form1.resources
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.exe
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.pdb
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\bin\Release\myserialassistant.exe.config
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\bin\Release\myserialassistant.exe
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\bin\Release\myserialassistant.pdb
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.Form1.resources
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.exe
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.pdb
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\bin\Release\myserialassistant.exe.config
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.exe
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.pdb
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\串口助手+服务器客户端确定版本\修正确定版\mySerialAssistant\myserialassistant\bin\Release\myserialassistant.exe.config
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\串口助手+服务器客户端确定版本\修正确定版\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.exe
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\串口助手+服务器客户端确定版本\修正确定版\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.pdb
+E:\串口助手+服务器客户端确定版本\修正确定版\mySerialAssistant\myserialassistant\bin\Release\myserialassistant.exe.config
+E:\串口助手+服务器客户端确定版本\修正确定版\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.exe
+E:\串口助手+服务器客户端确定版本\修正确定版\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.pdb
+E:\串口助手+服务器客户端确定版本\修正确定版\mySerialAssistant\myserialassistant\bin\Release\myserialassistant.exe
+E:\串口助手+服务器客户端确定版本\修正确定版\mySerialAssistant\myserialassistant\bin\Release\myserialassistant.pdb
+E:\串口助手+服务器客户端确定版本\修正确定版\mySerialAssistant\myserialassistant\obj\x86\Release\ResolveAssemblyReference.cache
+E:\串口助手+服务器客户端确定版本\修正确定版\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.Form1.resources
+E:\串口助手+服务器客户端确定版本\修正确定版\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.Properties.Resources.resources
+E:\串口助手+服务器客户端确定版本\修正确定版\mySerialAssistant\myserialassistant\obj\x86\Release\GenerateResource.read.1.tlog
+E:\串口助手+服务器客户端确定版本\修正确定版\mySerialAssistant\myserialassistant\obj\x86\Release\GenerateResource.write.1.tlog
+E:\串口助手+服务器客户端确定版本\PCCommunicationsAssistant2.0\mySerialAssistant\myserialassistant\bin\Release\myserialassistant.exe.config
+E:\串口助手+服务器客户端确定版本\PCCommunicationsAssistant2.0\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.exe
+E:\串口助手+服务器客户端确定版本\PCCommunicationsAssistant2.0\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.pdb
+E:\PCCommunicationsAssistant2.0\mySerialAssistant\myserialassistant\bin\Release\myserialassistant.exe.config
+E:\PCCommunicationsAssistant2.0\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.exe
+E:\PCCommunicationsAssistant2.0\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.pdb
+C:\Documents and Settings\Administrator\桌面\PC Communication Assistant\mySerialAssistant\myserialassistant\bin\Release\myserialassistant.exe.config
+C:\Documents and Settings\Administrator\桌面\PC Communication Assistant\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.exe
+C:\Documents and Settings\Administrator\桌面\PC Communication Assistant\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.pdb
+E:\code\mySerialAssistant\myserialassistant\bin\Release\myserialassistant.exe.config
+E:\code\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.exe
+E:\code\mySerialAssistant\myserialassistant\obj\x86\Release\myserialassistant.pdb

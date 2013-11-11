@@ -1,0 +1,2 @@
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\mySerialAssistant\myserialassistant\bin\Debug\myserialassistant.exe.config
+C:\Documents and Settings\Administrator\桌面\PC Communication Assistant\mySerialAssistant\myserialassistant\bin\Debug\myserialassistant.exe.config
